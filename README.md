@@ -36,7 +36,7 @@ Just upload:
   - `lcd.mpy`
   - `test_lib.mpy`
 
-... and run main!
+... to your pico and run main!
 
 
 `test_lib.py` is an example of a generated file. 
@@ -44,7 +44,7 @@ Just upload:
 `bmp_files` folder holds the gif and bmp files from which the instructions were generated!
 
 ## Other
-Feel free to use and change the code as needed!
+Feel free to use and change the code as needed! This is not a perfect script by any means but worked for me :)
 
 This approach doesn't take up a lot of storage and allows to hold several different animations on the pico.
 
